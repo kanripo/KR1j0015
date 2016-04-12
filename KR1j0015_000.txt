@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 續方言
-#+DATE: 2016-04-12 14:30:53.730504
+#+DATE: 2016-04-12 14:30:53.886209
 #+PROPERTY: ID KR1j0015
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0015_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部十¶
